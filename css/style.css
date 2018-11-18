@@ -1104,6 +1104,11 @@ button:focus {
 /*==========================
         14.CONTACT/FOOTER
 ============================*/
+#github,
+#linkedin,
+#email {
+    color: white !important;
+}
 
 .contact_form .form-control {
     box-shadow: none !important;
