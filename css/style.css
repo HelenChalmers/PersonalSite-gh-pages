@@ -595,19 +595,19 @@ button:focus {
     background-image: url('../images/WorldMap_Brett.jpg');
     background-position: center center;
     background-size: cover;
-    background-attachment: fixed;
-    
+    background-attachment: fixed;  
 }
-@media (max-width: 750px) and (min-width: 200px) {
+
+/* @media (max-width: 750px) and (min-width: 200px) {
     #work { 
         background-image: url('../images/WorldMap_Brett.jpg');
-        /* background-position: center center; */
+        background-position: center center;
         height: 14em !important;
         width: 100% !important;
         background-size: contain;
-        /* background-attachment: fixed; */
+        background-attachment: fixed;
     }
-}
+} */
 
 .cta-desc {
     max-width: 635px;
