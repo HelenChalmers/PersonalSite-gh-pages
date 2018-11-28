@@ -598,11 +598,14 @@ button:focus {
     background-attachment: fixed;
     
 }
-@media (max-width: 740px) and (min-width: 400px) {
-    .bg-cta-img { 
-        background-position: center center;
+@media (max-width: 750px) and (min-width: 200px) {
+    #work { 
+        background-image: url('../images/WorldMap_Brett.jpg');
+        /* background-position: center center; */
+        height: 14em !important;
+        width: 100% !important;
         background-size: contain;
-        background-attachment: fixed;
+        /* background-attachment: fixed; */
     }
 }
 
