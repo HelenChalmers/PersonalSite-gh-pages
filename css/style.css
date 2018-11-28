@@ -601,7 +601,7 @@ button:focus {
 @media (max-width: 740px) and (min-width: 400px) {
     .bg-cta-img { 
         background-position: center center;
-        background-size: cover;
+        background-size: contain;
         background-attachment: fixed;
     }
 }
