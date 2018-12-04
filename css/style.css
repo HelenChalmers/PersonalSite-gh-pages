@@ -598,11 +598,11 @@ button:focus {
     background-attachment: fixed;  
 }
 
-/* @media only screen and (max-width: 600px) {
-    .bg-cta-img {
+@media only screen and (max-width: 600px) {
+    #worldmap {
       height: 0%;
       width: 0%;
-    } */
+    }
 
 /* @media (max-width: 750px) and (min-width: 200px) {
     #work { 
